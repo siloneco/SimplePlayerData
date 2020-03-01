@@ -43,7 +43,7 @@ public class SimplePlayerData extends JavaPlugin {
             dataContainer.saveAll();
         }
 
-        Bukkit.getLogger().info(getName() + " enabled.");
+        Bukkit.getLogger().info(getName() + " disabled.");
     }
 
     /**
